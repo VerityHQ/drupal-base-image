@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 name: youroticalocalgit
 recipe: pantheon
 config:
   framework: drupal
   site: youroticalocalgit
   id: 804ecf6e-f66c-45ef-aecf-92053083342f
+=======
+name: innomach-drupal-8
+recipe: drupal8
+config:
+  webroot: .
+>>>>>>> pantheon
